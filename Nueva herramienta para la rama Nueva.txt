@@ -1,3 +1,10 @@
 <html>
+<title></title>
 Página principal
+<body>
+
+<br><br>
+Hola, ya está mas estructurada la página
+
+</body>
 </html>
